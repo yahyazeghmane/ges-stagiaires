@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class GestionStagiairesApplicationTests {
 	private static Logger logger = LoggerFactory.getLogger(GestionStagiairesApplicationTests.class);
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		//first test:
 		logger.info("first test");
 		Assert.assertEquals(1+1, 2);
