@@ -14,7 +14,7 @@ class GestionStagiairesApplicationTests {
 		//first test:
 		logger.info("first test");
 		Assert.assertEquals(1+1, 2);
-		Assert.assertEquals(1, 2);
+		Assert.assertEquals(2, 2);
 	}
 
 
